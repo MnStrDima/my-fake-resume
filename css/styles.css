@@ -4,3 +4,8 @@ body {
   text-decoration-line: underline;
   color: blueviolet;
 }
+
+.title {
+  color: chocolate;
+  font-weight: 700px;
+}
